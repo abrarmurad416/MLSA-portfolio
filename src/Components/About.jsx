@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hello! I'm Abrar, studying Computer Science at Wilfrid Laurier University in my 2A term. My interests are full stack development, devops, cloud, and software architecture. Overall, I am passionate about computer science and I am excited about the innovation in this field.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
